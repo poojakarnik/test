@@ -4,7 +4,7 @@ body {
     background-color: #fff;
     font-family: "Lucida Grande", "Helvetica Neue", Roboto, "Droid Sans", Prelude, Helvetica, Arial, sans-serif;
     font-size: 100%;
-    color: #334;
+ 
 }
 @media only screen and (max-width: 768px) {
     body {
